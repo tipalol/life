@@ -1,5 +1,4 @@
-﻿using System;
-// <copyright file="Meeting.cs">
+﻿// <copyright file="Meeting.cs">
 // Copyright (c) 2018 All Rights Reserved
 // </copyright>
 // <author>Sorokin Dmitrii</author>

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{11A20602-2340-4AA4-9807-221743BA95DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EbaloNanol/Meeting.cs">
+    <Files>
+      <File FileName="EbaloNanol/Program.cs" Line="16" Column="1" />
+      <File FileName="EbaloNanol/Game.cs" Line="2" Column="34" />
+      <File FileName="EbaloNanol/Person.cs" Line="2" Column="34" />
+      <File FileName="EbaloNanol/Event.cs" Line="34" Column="6" />
+      <File FileName="EbaloNanol/SecureRandom.cs" Line="2" Column="36" />
+      <File FileName="EbaloNanol/Meeting.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EbaloNanol PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/sorokindmitrij/Projects/EbaloNanol/EbaloNanol/bin/Debug/EbaloNanol.exe
+/Users/sorokindmitrij/Projects/EbaloNanol/EbaloNanol/bin/Debug/EbaloNanol.pdb
+/Users/sorokindmitrij/Projects/EbaloNanol/EbaloNanol/obj/x86/Debug/EbaloNanol.csprojResolveAssemblyReference.cache
+/Users/sorokindmitrij/Projects/EbaloNanol/EbaloNanol/obj/x86/Debug/EbaloNanol.csproj.CoreCompileInputs.cache
+/Users/sorokindmitrij/Projects/EbaloNanol/EbaloNanol/obj/x86/Debug/EbaloNanol.exe
+/Users/sorokindmitrij/Projects/EbaloNanol/EbaloNanol/obj/x86/Debug/EbaloNanol.pdb

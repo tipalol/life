@@ -1,6 +1,12 @@
 ﻿using System;
+// <copyright file="Program.cs">
+// Copyright (c) 2018 All Rights Reserved
+// </copyright>
+// <author>Sorokin Dmitrii</author>
+// <date>08/30/2018 12:10:53 AM </date>
+// <summary>Program entry point</summary>
 
-namespace EbaloNanol
+namespace Life
 {
     class MainClass
     {

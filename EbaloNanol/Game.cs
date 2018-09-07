@@ -1,7 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-namespace EbaloNanol
+// <copyright file="Game.cs">
+// Copyright (c) 2018 All Rights Reserved
+// </copyright>
+// <author>Sorokin Dmitrii</author>
+// <date>08/30/2018 12:10:53 AM </date>
+// <summary>Game main class, realize game logic</summary>
+namespace Life
 {
     public class Game
     {

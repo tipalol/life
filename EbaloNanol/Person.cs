@@ -1,6 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace EbaloNanol
+// <copyright file="Person.cs">
+// Copyright (c) 2018 All Rights Reserved
+// </copyright>
+// <author>Sorokin Dmitrii</author>
+// <date>08/30/2018 12:10:53 AM </date>
+// <summary>Person class</summary>
+namespace Life
 {
     public class Person
     {

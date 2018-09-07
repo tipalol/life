@@ -1,6 +1,12 @@
 ﻿using System;
 using System.Security.Cryptography;
-namespace EbaloNanol
+// <copyright file="SecureRandom.cs">
+// Copyright (c) 2018 All Rights Reserved
+// </copyright>
+// <author>Sorokin Dmitrii</author>
+// <date>08/30/2018 12:10:53 AM </date>
+// <summary>Realize secure random method</summary>
+namespace Life
 {
     public static class SecureRandom
     {

@@ -1,5 +1,11 @@
 ﻿using System;
-namespace EbaloNanol
+// <copyright file="Event.cs">
+// Copyright (c) 2018 All Rights Reserved
+// </copyright>
+// <author>Sorokin Dmitrii</author>
+// <date>08/30/2018 12:10:53 AM </date>
+// <summary>Event class</summary>
+namespace Life
 {
     class Event
     {

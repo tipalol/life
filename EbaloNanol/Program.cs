@@ -14,8 +14,12 @@ namespace Life
         {
             Console.WriteLine("Life v1.0");
             Console.WriteLine("Начать новую игру? (1 - да, 2 - нет - загрузить сохраненную");
-            int mode = Convert.ToInt32( Console.ReadLine() );
-            Game game = new Game(mode);
+            string mode = Console.ReadLine();
+            while (mode != "0" && mode != "1") {
+                Console.WriteLine("Начать новую игру? (1 - да, 2 - нет - загрузить сохраненную");
+                mode = Console.ReadLine();
+            }
+            Game game = new Game(Convert.ToInt32( mode) );
         }
     }
 }

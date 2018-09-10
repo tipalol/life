@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{11A20602-2340-4AA4-9807-221743BA95DF}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EbaloNanol Status">
     <Files>
-      <File FileName="EbaloNanol/Program.cs" Line="21" Column="2" />
+      <File FileName="EbaloNanol/Program.cs" Line="22" Column="58" />
       <File FileName="EbaloNanol/Game.cs" Line="9" Column="48" />
       <File FileName="EbaloNanol/Person.cs" Line="10" Column="2" />
       <File FileName="EbaloNanol/Event.cs" Line="9" Column="2" />
